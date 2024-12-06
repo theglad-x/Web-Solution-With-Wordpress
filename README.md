@@ -237,7 +237,10 @@ Replace the variables of DB user, DB host, DB password .
 If this message is seen - it means wordpress hass successfully connected to remote MySQL 
 ![wordpress-install](https://github.com/user-attachments/assets/6c89dfa3-11e8-4a3f-a84d-886f3180db4b)
 
+# Conclusion:
+This guide provides a step-by-step approach to setting up a scalable and robust WordPress website with a MySQL backend on AWS. By leveraging AWS services and best practices such as Logical Volume Management (LVM) for storage, secure database access, and proper directory configurations, you can ensure optimal performance and reliability for your web solution.
 
+With the web server and database server deployed separately, this architecture supports scalability
 
 
 
